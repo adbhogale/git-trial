@@ -1,2 +1,4 @@
 # git-trial
-Testing git
+Testing git for learning the git commands.
+
+
